@@ -10,7 +10,7 @@ theme:
   # Light mode
     - light blue: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
+      primary: light blue
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
@@ -19,7 +19,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light blue
+      primary: white
       accent: light blue
       toggle:
         icon: material/toggle-switch
