@@ -1,7 +1,7 @@
 We're almost done with our bot! However, we need to make the bot actually log in.
 
 !!! info "How To Get Your Bot Token"
-    To make our bot log in, we need a **token**. To get our bot token we first need to head over to the [Discord Developer page](https://discord.com/developers/applications). Once we're there, we need to create a new application. Then, headover to the "Bot" tab on the left and create a bot. Once we've created a bot, the center of the "Bot" page should have a "Copy" button. Click that, and you have your token!
+    To make our bot log in, we need a **token**. To get our bot token we first need to head over to the [Discord Developer page](https://discord.com/developers/applications). Once we're there, we need to create a new application. Then, go to the "Bot" tab on the left and create a bot. Once we've created a bot, the center of the "Bot" page should have a "Copy" button. Click that, and you have your token!
 
 Once we have our token, add a "run" function and include the token as the parameter.
 
