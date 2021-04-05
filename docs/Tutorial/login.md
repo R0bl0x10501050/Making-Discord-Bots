@@ -64,4 +64,4 @@ Once we have our token, add a "run" function and include the token as the parame
 Congrats! You've finished your first ever Discord bot! Run the program, invite the bot to your server, and you're all set!
 
 !!! info "Being Secure"
-    Don't want your private bot tokens out in the public? Don't worry, since envs, or environment variables, exist for this purpose. To learn how to use an env file, check out the [Advanced]() page.
+    Don't want your private bot tokens out in the public? Don't worry, since envs, or environment variables, exist for this purpose. To learn how to use an env file, check out the [Advanced](https://r0bl0x10501050.github.io/Making-Discord-Bots/Tutorial/advanced) page.
