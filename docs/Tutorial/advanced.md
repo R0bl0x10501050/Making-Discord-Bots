@@ -69,3 +69,5 @@ Now, make sure to change your bot code!
     ```
     
 And you're done! Have fun experimenting with Discord bots!
+
+Have a bot you want to others to use? Join our [discord server](https://discord.gg/FEdAG2Kh9n) and submit your bot in `#bot-submissions`.
