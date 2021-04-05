@@ -92,4 +92,4 @@ Listening for messages isn't much different than listening for the "ready" event
     end)
     ```
     
-And with that, our bot is almost ready to run. However, there is [one more crucial step]() to finishing a bot.
+And with that, our bot is almost ready to run. However, there is [one more crucial step](https://r0bl0x10501050.github.io/Making-Discord-Bots/Tutorial/login) to finishing a bot.
