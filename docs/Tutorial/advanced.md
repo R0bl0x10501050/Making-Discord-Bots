@@ -15,6 +15,12 @@ Now, make sure to change your bot code!
     ``` py
     import discord
     import os
+    from os.path import join, dirname
+    from dotenv import load_dotenv
+
+    dotenv_path = join(dirname(__file__), '.env')
+    load_dotenv(dotenv_path)
+    
     client = discord.Client()
 
     @client.event
@@ -34,6 +40,8 @@ Now, make sure to change your bot code!
     ``` js
     const Discord = require('discord.js');
     const client = new Discord.Client();
+    
+    require('dotenv').config()
 
     client.on('ready', () => {
         console.log(`Logged in as ${client.user.tag}!`);
