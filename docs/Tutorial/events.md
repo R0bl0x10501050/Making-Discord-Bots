@@ -1,5 +1,5 @@
 !!! question "What Are Events?"
-    **Events** are connections between two systems. In this case, the two systems are Discord and your bot. For example, when you start typing in a channel, Discord will notify your bot that someone is typing, and who it is.
+    **Events** are connections between two systems. In this case, the two systems are Discord and your bot. For example, when you start typing in a channel, Discord will notify your bot that someone is typing, and who it is. Don't understand? Join our [discord server](https://discord.gg/FEdAG2Kh9n)!
 
 We'll first want to create an **event listener** for when your bot logs in. This can help ensure that your bot is logged on and ready to go.
 
