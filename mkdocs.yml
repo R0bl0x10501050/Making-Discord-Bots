@@ -27,7 +27,11 @@ theme:
 
 nav:
   - Home: index.md
-  - Tutorial: docs.md
+  - Tutorial:
+    - Installation: Tutorial/installation.md
+    - Events: Tutorial/events.md
+    - Login: Tutorial/login.md
+    - Advanced: Tutorial/advanced.md
     
 markdown_extensions:
   - admonition
