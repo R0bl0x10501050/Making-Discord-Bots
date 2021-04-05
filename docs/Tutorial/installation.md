@@ -26,4 +26,4 @@ First off, we need to require the module and create a bot client. This is done d
     local client = discordia.Client()
     ```
     
-Great! We've completed the first steps toward creating our very own Discord bot. Now, let's move on to **events**.
+Great! We've completed the first steps toward creating our very own Discord bot. Now, let's move on to [**events**](https://r0bl0x10501050.github.io/Making-Discord-Bots/Tutorial/events/).
