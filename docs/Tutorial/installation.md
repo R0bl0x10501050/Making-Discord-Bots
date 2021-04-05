@@ -1,5 +1,5 @@
 !!! warning "Read Before Starting"
-    If you do not have any experience with Python, JavaScript, or Lua, it is recommended that you learn the basic foundation of one of the languages.
+    If you do not have any experience with Python, JavaScript, or Lua, it is recommended that you learn the basic foundation of one of those languages.
     
 ### Let's begin!
 
